@@ -26,6 +26,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40153#The-First-True-GentlemanA-Study-of-the-Human-Nature-of-Our-Lord
 gutenberg_issued: '2012-07-07'
 gutenberg_type: Text
 identifiers:
