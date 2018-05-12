@@ -1,0 +1,45 @@
+_repo: The-First-True-GentlemanA-Study-of-the-Human-Nature-of-Our-Lord_40153
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hale, Edward Everett
+    aliases:
+    - Hale, Edward E.
+    - Hale, E. E. (Edward Everett)
+    - Ingham, Frederic
+    - Darragh, J. Thomas
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+covers:
+- cover_type: archival
+  image_path: 40153-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2012-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life'
+- !lcsh 'Jesus Christ -- Natures'
+- !lcsh 'Jesus Christ'
+- !lcsh 'Jesus Christ -- Character'
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Humanity'
+title: 'The First True Gentleman: A Study of the Human Nature of Our Lord'
+url: http://www.gutenberg.org/ebooks/40153
